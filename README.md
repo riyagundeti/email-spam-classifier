@@ -1,6 +1,6 @@
 # Spam Email Classifier
 
-This is a beginner machine learning project that detects whether a message is Spam or Ham (normal message).
+This is a beginner machine learning project that detects whether a message is Spam or not spam.
 
 ## Built With
 
